@@ -15,8 +15,7 @@
       "type": "string"
     },
     "video": {
-      "type": "youtube",
-      "required": true
+      "type": "youtube"
     }
   }
 }
